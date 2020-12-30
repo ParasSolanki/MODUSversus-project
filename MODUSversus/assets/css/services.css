@@ -1,0 +1,13 @@
+body {
+	padding-top: 5em;
+	width: 100%;
+	height: auto;
+	background-color: #f3f3f3;
+	font-family: sans-serif;
+}
+.body-section-col-detail {
+	text-align: center;
+	font-size: 14px;
+	padding: 3.4em 2em;
+	color: #767676;
+}

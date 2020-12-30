@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+:root {
+	--font: sans-serif;
+	--size: 17px;
+}
+body {
+	background-color: #f3f3f3;
+	padding-top: 5em;
+	width: 100%;
+	font-family: var(--font);
+}
+.dialog-box {
+	margin-top: 1.4em;
+}
+.dialog-box .dialog-box-body {
+	position: relative;
+	max-width: auto;
+	height: auto;
+
+	margin: 2px 1px;
+	padding: 5px;
+	background-color: #f8f8f8;
+	border: 5px solid #f8f8f8;
+	border-radius: 4px;
+}
+.dialog-msg {
+	font-family: sans-serif;
+	font-size: 13px;
+	min-height: 30px;
+	border-radius: 3px;
+	color: #646464;
+	text-align: justify;
+}
+.dialog-tip {
+	border: 15px solid #f8f8f8;
+}
+.dialog-tip-down {
+	top: 5.6em;
+	left: 1.13em;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: transparent;
+}
+.dialog-box-client-name {
+	font-size: 14px;
+	position: absolute;
+	font-weight: bold;
+	color: #717171;
+	margin: 5px 0;
+	right: 18em;
+}
