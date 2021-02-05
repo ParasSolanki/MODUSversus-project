@@ -7,8 +7,9 @@ The Basic Template Design Using HTML, CSS, JavaScript and PHP.
 To open this project in your computer or laptop..
 
 Requirements:
-  1.) You Need to have Internet Connection to some Bootstrap CSS and FontAwesome Icons.
+  1.) You need an Internet connection for Bootstrap CSS and FontAwesome Icons CDN files.
   2.) Install XAMPP app in your device.
+  
 Steps: 
   1.) First install XAMPP in your device.
   2.) Open XAMPP appliation and start Apache and MYSQL.
